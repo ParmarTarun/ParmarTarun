@@ -1,16 +1,57 @@
-## Hi there 👋
+<img src="github-banner.jpg" alt="GitHub Banner" width="100%" />
 
-<!--
-**ParmarTarun/ParmarTarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋🏼 Hey There , I'm Tarun Parmar
 
-Here are some ideas to get you started:
+🧑‍💻 Full Stack Developer <code> since 2020</code> <br/>
+🎓 Masters Graduate from <code>State University Of New York (Binghmaton) </code> <br/>
+📍 San Francisco, CA, USA </br>
+💼 Open for <code> Hiring </code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+
+### Languages
+
+  <img src="./icons/typescript.svg" height="40"  /> 
+  <img src="./icons/javascript-color.svg" height="40"  /> 
+  <img src="./icons/python.svg" height="40"  /> 
+  <img src="./icons/php-color.svg" height="40"  />
+
+### Frameworks / Libraries
+
+  <img src="./icons/nextdotjs-color.svg" height="40"  /> 
+  <img src="./icons/react-color.svg" height="40"  /> 
+  <img src="./icons/reactquery-color.svg" height="40"  /> 
+  <img src="./icons/nodedotjs-color.svg" height="40"  /> 
+  <img src="./icons/flaskapi-color.svg" height="40"  /> 
+  <img src="./icons/django-color.svg" height="40"  />
+  <img src="./icons/shadcnui-color.svg" height="40"  /> 
+  <img src="./icons/tailwindcss-color.svg" height="40"  />
+
+### Databases
+
+  <img src="./icons/mongodb-color.svg" height="40"  /> 
+  <img src="./icons/postgresql-color.svg" height="40"  />
+
+### Cloud Services
+
+  <img src="./icons/amazonwebservices-color.svg" height="40"  /> 
+  <img src="./icons/googlecloud-color.svg" height="40"  />
+
+### DevOps Tools
+
+  <img src="./icons/docker-color.svg" height="40"  /> 
+  <img src="./icons/jenkins-color.svg" height="40"  />
+
+### Developement Tools
+
+  <img src="./icons/visual-studio.png" height="40"  /> 
+  <img src="./icons/postman-color.svg" height="40"  /> 
+  <img src="./icons/figma-color.svg" height="40"  /> 
+  <img src="./icons/adobephotoshop-color.svg" height="40"  />
+  <img src="./icons/git-color.svg" height="40"  />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
