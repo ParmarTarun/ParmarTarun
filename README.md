@@ -3,7 +3,7 @@
 # 👋🏼 Hey There , I'm Tarun Parmar
 
 🧑‍💻 Full Stack Developer <code> since 2020 </code> <br/>
-🎓 Masters Graduate from <code> State University Of New York (Binghmaton) </code> <br/>
+🎓 Masters Graduate from <code> State University Of New York (Binghamton) </code> <br/>
 📍 San Francisco, CA, USA </br>
 💼 Open for <code> Hiring </code>
 
