@@ -2,10 +2,10 @@
 
 # 👋🏼 Hey There , I'm Tarun Parmar
 
-🧑‍💻 Full Stack Developer <code> since 2020 </code> <br/>
+🧑‍💻 Backend Engineer <code><a href="https://levels.fyi" style="text-decoration=none">Levels.fyi</a></code> <br/>
 🎓 Masters Graduate from <code> State University Of New York (Binghamton) </code> <br/>
-📍 San Francisco, CA, USA </br>
-💼 Open for <code> Hiring </code>
+📍 Mumbai, India </br>
+
 
 # 💻 Tech Stack:
 
@@ -20,6 +20,7 @@
 
 ### Frameworks / Libraries
 <div>
+  <img src="./icons/nestdotjs" height="40"  /> 
   <img src="./icons/nextdotjs-color.svg" height="40"  /> 
   <img src="./icons/react-color.svg" height="40"  /> 
   <img src="./icons/reactquery-color.svg" height="40"  /> 
