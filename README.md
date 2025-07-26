@@ -20,7 +20,7 @@
 
 ### Frameworks / Libraries
 <div>
-  <img src="./icons/nestdotjs" height="40"  /> 
+  <img src="./icons/nestdotjs.svg" height="40"  /> 
   <img src="./icons/nextdotjs-color.svg" height="40"  /> 
   <img src="./icons/react-color.svg" height="40"  /> 
   <img src="./icons/reactquery-color.svg" height="40"  /> 
